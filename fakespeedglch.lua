@@ -24,5 +24,6 @@ onSelected(game.Players.LocalPlayer:GetMouse())
 game.StarterGui:SetCore("SendNotification",{
 			Title = "Keybind is Z";
 			Text = "AntiSec";
-			Duration = 0.20;
+			Icon = "rbxassetid://9800336437";
+			Duration = 5;
 		})
