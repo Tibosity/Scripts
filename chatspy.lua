@@ -3,7 +3,7 @@ SPYLOCALPLAYER = true
 PUBLIC = false
 PUBLICITALICS = true
 PRIVATE = {
-	Color = Color3.fromRGB(0, 255, 255); 
+	Color = Color3.fromRGB(0, 255, 0); 
 	Font = Enum.Font.GothamBlack;
 	TextSize = 15;
 }
